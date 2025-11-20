@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://ssungboong.github.io/publii/sitemap.xml
+Sitemap: https://seungheonhan.com/sitemap.xml
