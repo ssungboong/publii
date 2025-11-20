@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "seungheonhan.com",
+    "description": "",
+    "home_page_url": "https://ssungboong.github.io/publii",
+    "feed_url": "https://ssungboong.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "seungheonhan"
+    },
+    "items": [
+    ]
+}
